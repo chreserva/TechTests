@@ -1,0 +1,23 @@
+{
+  "name": "techtests",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chreserva/TechTests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/chreserva/TechTests/issues"
+  },
+  "homepage": "https://github.com/chreserva/TechTests#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.2.3"
+  }
+}
